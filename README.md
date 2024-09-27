@@ -19,5 +19,19 @@
 ## 适用人群
 - 学习 C语言数据结构 的初学者
 - 希望通过 刷题 提高算法和数据结构能力的开发者
+
 ## 贡献
 欢迎提交 Pull Requests 以扩展或优化本项目！请确保你的代码格式整洁，且附带适当的注释说明。
+
+##许可协议
+
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+[Copyright (C) 2024 <黄灿灿>]
+
+详细的 GPLv3 许可证文本可以从 [https://www.gnu.org/licenses/gpl-3.0.txt](https://www.gnu.org/licenses/gpl-3.0.txt) 获取。
+
+简要说明：
+- 你可以自由复制、分发和修改这个项目的代码，只要你发布的修改版代码也使用 GPLv3 许可证。
+- 你必须保留这个版权声明和许可证文件。
